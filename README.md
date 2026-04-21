@@ -13,8 +13,8 @@ I am a Software QA Engineer with strong experience in fintech and remittance sys
 
 ###  Technical Skills
 
-* Automation Testing: Selenium (UI testing)
-* Programming: Python (test automation & scripting)
+* Automation Testing: Selenium and Playwright
+* Programming: Python,  java , JavaScript (test automation & scripting)
 * Performance Testing: Locust (load and stress testing)
 * API Testing: Postman, Apidog
 * Domains: Fintech, Remittance Systems, ERP Systems
