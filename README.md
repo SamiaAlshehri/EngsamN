@@ -1,5 +1,5 @@
 
-### Senior QA Engineer | QA Lead | Fintech, Remittance & ERP Systems | Automation & Performance Testing
+###  QA Engineer | QA Lead | Fintech, Remittance & ERP Systems | Automation & Performance Testing
 
 I am a Software QA Engineer with strong experience in fintech and remittance systems, currently working as a Main QA Engineer in a fintech company, while also contributing as a Part-Time QA Lead at DevSpark. I specialize in delivering high-quality, scalable, and reliable systems through a combination of manual testing, automation, and performance testing.
 
