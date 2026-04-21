@@ -37,11 +37,6 @@ I am a Software QA Engineer with strong experience in fintech and remittance sys
 * Collaborating with development teams to enhance overall product quality
 * Mentoring team members and improving delivery and quality practices
 
-###  Key Achievements
-* Improved regression efficiency through test automation
-* Identified critical issues in financial workflows before production
-* Conducted performance testing using Locust to ensure system scalability
-* Enhanced API reliability through structured testing approaches
 
 
 
