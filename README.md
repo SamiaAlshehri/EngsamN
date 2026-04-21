@@ -1,15 +1,14 @@
 
 ### Senior QA Engineer | QA Lead | Fintech, Remittance & ERP Systems | Automation & Performance Testing
 
-I am a Software QA Engineer with strong experience in fintech and remittance systems, currently working as a Main QA Engineer in a fintech company, while also contributing as a **Part-Time Tech Lead at DevSpark  I specialize in delivering high-quality, scalable, and reliable systems through a combination of manual testing, automation, and performance testing
+I am a Software QA Engineer with strong experience in fintech and remittance systems, currently working as a Main QA Engineer in a fintech company, while also contributing as a Part-Time Tech Lead at DevSpark  I specialize in delivering high-quality, scalable, and reliable systems through a combination of manual testing, automation, and performance testing
 
 ###  What I Do
-
-* Lead QA activities and contribute to technical decisions as a **Tech Lead**
-* Design, implement, and maintain **test strategies and test plans**
-* Ensure high quality in **financial systems and transaction workflows**
+* Lead QA activities and contribute to technical decisions as a QA Lead
+* Design, implement, and maintain test strategies and test plans
+* Ensure high quality in financial systems and transaction workflows
 * Collaborate with cross-functional teams (developers, product managers)
-* Drive improvements in **test automation and performance testing**
+* Drive improvements in test automation and performance testing
 
 ### Technical Skills
 
@@ -17,8 +16,7 @@ I am a Software QA Engineer with strong experience in fintech and remittance sys
 * **Programming:** Python (test automation & scripting)
 * **Performance Testing:** Locust (load and stress testing)
 * **API Testing:** Postman, Apidog
-* **Testing Types:** Functional, Regression, Integration, API, Performance
-* **Domains:** Fintech, Remittance Systems
+* **Domains:** Fintech, Remittance Systems, ERP Systems 
 
 ###  Professional Experience
 
@@ -30,7 +28,7 @@ I am a Software QA Engineer with strong experience in fintech and remittance sys
 * Building automation frameworks using Selenium + Python Playwright
 * Performing API validation using Postman and Apidog
 
-#### DevSpark — Part-Time Tech Lead
+#### DevSpark — Part-Time QA Lead
 
 * Supporting technical decisions and system design
 * Guiding development and QA practices
